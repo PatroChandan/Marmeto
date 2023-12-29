@@ -9,4 +9,6 @@ btn.addEventListener("click", function () {
   h3.innerHTML = "Thank you! 🎉";
   h2.innerHTML = "Your order has been received";
   btn.innerHTML = "Purchase history";
+  img2.src = "./asssets/process4.png";
+  img3.src = "./asssets/process3.png";
 });
